@@ -8,4 +8,8 @@ class Script
 	def twice
 		@number * 2
 	end
+	
+	def multiple_by(times)
+	  @number * times
+	end
 end
