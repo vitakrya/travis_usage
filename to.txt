@@ -9,3 +9,4 @@ notifications:
   	- trlearning@mail.ru
   	- betterhelper@mail.ru
   	- vinder_2@mail.ru
+	- movenext@mail.ru
